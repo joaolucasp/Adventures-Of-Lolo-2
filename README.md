@@ -7,7 +7,9 @@ Adventures Of Lolo 2 is a single player game released in 1990 by HAL Laboratory 
 
 # **Adventures of Lolo 2**
 
-![lolo1](https://user-images.githubusercontent.com/83319546/180034445-70e79441-0ec3-49db-8c43-b8ab013b02d9.png)
+<div align="center">
+<img src="(https://user-images.githubusercontent.com/83319546/180034445-70e79441-0ec3-49db-8c43-b8ab013b02d9.png" width="700px" />
+</div>
 ![screen2](https://user-images.githubusercontent.com/61102108/149201609-097cff5d-5341-49a6-b91d-ae0dc6ed3f2f.png)
 
 ### Como executar o jogo
